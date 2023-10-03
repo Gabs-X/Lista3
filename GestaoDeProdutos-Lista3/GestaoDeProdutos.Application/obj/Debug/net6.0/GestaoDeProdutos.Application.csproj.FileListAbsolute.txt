@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.deps.json
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.pdb
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.pdb
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.CopyComplete
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\refint\GestaoDeProdutos.Application.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.pdb
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Application\obj\Debug\net6.0\ref\GestaoDeProdutos.Application.dll

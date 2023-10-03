@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\bin\Debug\net6.0\GestaoDeProdutos.Domain.deps.json
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\bin\Debug\net6.0\GestaoDeProdutos.Domain.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\bin\Debug\net6.0\GestaoDeProdutos.Domain.pdb
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\refint\GestaoDeProdutos.Domain.dll
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\GestaoDeProdutos.Domain.pdb
+C:\Users\Gabriel\Downloads\GestaoDeProdutos-Lista3\GestaoDeProdutos.Domain\obj\Debug\net6.0\ref\GestaoDeProdutos.Domain.dll
